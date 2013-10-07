@@ -1,9 +1,9 @@
 <?php 
 /**
-* @version		1.5.0
-* @package		Fiyo CMS
+* @version	1.5.4
+* @package	Fiyo CMS
 * @copyright	Copyright (C) 2012 Fiyo CMS.
-* @license		GNU/GPL, see LICENSE.txt
+* @license	GNU/GPL, see LICENSE.txt
 **/
 
 //set session start
